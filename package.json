@@ -1,0 +1,17 @@
+{
+  "name": "archlinux-check-for-updates",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.19.0",
+    "bluebird": "^3.5.5",
+    "js-yaml": "^3.13.1"
+  }
+}
