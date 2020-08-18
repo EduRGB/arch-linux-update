@@ -1,0 +1,39 @@
+0_important:
+  - archlinux-keyring
+  - ca-certificates
+  - pacman-mirrorlist
+
+1_recommended:
+  - chromium
+  - flameshot
+  - intel-ucode
+  - amd-ucode
+  - linux-firmware
+  - linux-lts
+  - linux-zen
+  - linux
+  - keepassxc
+  - notepadqq
+  - gimp
+  - qpdfview
+  - smb4k
+  - smplayer
+  - telegram-desktop
+  - virtualbox
+  - { name: visual-studio-code-bin, aur: true }
+
+2_optional:
+  - docker
+  - docker-compose
+  - dolphin
+  - git
+  - htop
+  - mesa
+  - openssh
+  - openssl
+  - plasma-desktop
+  - plasma-framework
+  - tigervnc
+  - ufw
+  - xorg-server
+  - earlyoom
